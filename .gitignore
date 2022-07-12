@@ -23,9 +23,14 @@
 
 # Go workspace file
 go.work
+go.mod
+
 
 ### Go Patch ###
 /vendor/
 /Godeps/
 
 # End of https://www.toptal.com/developers/gitignore/api/go
+
+# build
+fiber-practice
